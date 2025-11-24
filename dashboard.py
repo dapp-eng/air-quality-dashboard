@@ -422,7 +422,7 @@ def main():
         """)
         
         st.markdown("---")
-        st.caption("© 2024 Inferential Statistics Project.")
+        st.caption("© INT-24 Inferential Statistics Project.")
 
 if __name__ == "__main__":
     main()
